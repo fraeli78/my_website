@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Nelson Bighetti
+title: Filippo Maria Raeli
 
 # Username (this should match the folder name)
 authors:
@@ -10,50 +10,50 @@ authors:
 superuser: true
 
 # Role/position
-role: Professor of Artificial Intelligence
+role: GIS Developer - Data Analyst - Web Design
 
 # Organizations/Affiliations
 organizations:
-- name: Stanford University
-  url: ""
+- name: Freelancer
+  url: "https://www.upwork.com/fl/filippomariaraeli"
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
+bio: My passion is learning the advances of modern technology and how to piece together a solution to every problem that I would like to expose myself to and be able to resolve different issues in difficult situations.
 
 interests:
-- Artificial Intelligence
-- Computational Linguistics
-- Information Retrieval
+- GIS
+- WebGIS
+- Database
+- Python
+- Cybersecurity
 
 education:
   courses:
-  - course: PhD in Artificial Intelligence
-    institution: Stanford University
-    year: 2012
-  - course: MEng in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2009
-  - course: BSc in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2008
+  - course: Cyber/Computer Forensics and Counterterrorism
+    institution: Pisa University
+    year: 2017
+  - course: City/Urban, Community and Regional Planning
+    institution: Florence University
+    year: 2007
+
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
 #   For an email link, use "fas" icon pack, "envelope" icon, and a link in the
 #   form "mailto:your-email@example.com" or "#contact" for contact widget.
 social:
-- icon: envelope
-  icon_pack: fas
-  link: '#contact'  # For a direct email link, use "mailto:test@example.org".
+- icon: linkedin
+  icon_pack: fab
+  link: https://www.linkedin.com/in/filippomariaraeli/  # For a direct email link, use "mailto:test@example.org".
 - icon: twitter
   icon_pack: fab
-  link: https://twitter.com/GeorgeCushen
-- icon: google-scholar
-  icon_pack: ai
-  link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
+  link: https://twitter.com/polpo26
+#- icon: google-scholar
+#  icon_pack: ai
+#  link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
 - icon: github
   icon_pack: fab
-  link: https://github.com/gcushen
+  link: https://github.com/fraeli78
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
 # - icon: cv
@@ -70,6 +70,8 @@ user_groups:
 - Visitors
 ---
 
-Nelson Bighetti is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+Over the past 10 years, I have had extensive experience in managing nautical/urban cartographic data by GIS. I have had the pleasure of working for public and private companies as well as spending a one-year period in university research.
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
+As modern technology is my passion, I have continued to work on projects centered around GIS, WebGIS, Database handling, and Python. Just to name a few.
+
+I am happily married and I live in Pontedera, Italy. I love nature, travelling, and, walking with my labrador in the parks.
