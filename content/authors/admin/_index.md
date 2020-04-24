@@ -76,4 +76,4 @@ As modern technology is my passion, I have continued to work on projects centere
 
 Recently, I have strongly completed the 1st level Master's degree in Cyber Security to improve my knowledge.
 
-I am happily married and I live in Pontedera, Italy. I love nature, travelling, and, walking with my labrador in the parks.
+I am happily married and I live in Pontedera, Italy. I love nature, travelling, and, walking with my Labrador in the parks.
